@@ -15,7 +15,7 @@ class sophiedoe(ReadMe):
             "sophiedoesmc",
             "cantverifyitsyou"
         ]
-        self.location = "Östermalm, Stockholm "
+        self.location = "Los Angeles, California "
         self.hobbies = "everything"
 ```
 <p align="center">
