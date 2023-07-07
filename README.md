@@ -2,7 +2,7 @@
 from GitHub import ReadMe
 
 class sophiedoe(ReadMe):
-    "/sophiedoe/cantverifyitsyou/README.md"
+    "/sophiedoe/sophiedoe/README.md"
 
     def __init__(self):
         self.username = "sophiedoe"
